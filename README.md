@@ -9,7 +9,7 @@
 |**Service Type**<br>None|
 |**Service URL**<br>N/A|
 |**Module Name**<br>project1|
-|**Application Title**<br>App Title|
+|**Application Title**<br>App Gadelha|
 |**Namespace**<br>|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.131.1|
